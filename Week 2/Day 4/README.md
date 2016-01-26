@@ -1,0 +1,7 @@
+Reflect:
+        1. Could you make a simple website utilizing what we have learned thus far? Yes, I can and have created such website, and even more so.
+        2. What do you feel is the most difficult to understand about git and the git workflow? Nothing is hard to understand really, been over it enough to have a proper grasp of it and can recreate it from scratch.
+        3. What is the most interesting thing that you have learned thus far? How to quickly add/create files and folders and begin coding them without even having a reference.
+
+Review:
+       1. Describe the git workflow up until this point: First you create a main folder then inside that folder create the HTML file, but back to the main folder and create the server.js (both times using the touch command), after that while in the main folder do the git init function with downloads all the git files. After that do npm init, which stablizes the website and adds proper coding package.json. after that is done do npm (node packaging manager) install express -- save (make sure to save it!) this will grab all the files needed to launch the server. open atom up and add the proper code to server.js. Save it and go back to the git bash. git status and add the proper files to git, git status again to have all green. Then git commit to add a proper comment to the added files/floders/codes. Then node server.js in git in the main folder. There you have.
